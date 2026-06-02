@@ -1,5 +1,9 @@
 <img width="1441" height="302" alt="banner" src="https://github.com/user-attachments/assets/969509be-d5d6-43eb-872d-ebb750dd79a7" />
 
+![Procrastination](https://img.shields.io/badge/Procrastination-Over%209000-red?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee-IV%20drip-brown?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-It%20works%20on%20my%20machine-ff69b4?style=for-the-badge)
+
 ### Меня можно найти (ну, почти):
 
 [![Vine](https://img.shields.io/badge/Vine-00B489?style=for-the-badge&logo=vine&logoColor=white)](https://vine.co)
