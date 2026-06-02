@@ -4,8 +4,6 @@
 ![Coffee](https://img.shields.io/badge/Coffee-IV%20drip-brown?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-It%20works%20on%20my%20machine-ff69b4?style=for-the-badge)
 
-### Меня можно найти (ну, почти):
-
 [![Vine](https://img.shields.io/badge/Vine-00B489?style=for-the-badge&logo=vine&logoColor=white)](https://vine.co)
 [![Google+](https://img.shields.io/badge/Google+-DC4E41?style=for-the-badge&logo=googleplus&logoColor=white)](https://plus.google.com)
 [![Clubhouse](https://img.shields.io/badge/Clubhouse-651E5E?style=for-the-badge&logo=clubhouse&logoColor=white)](https://clubhouse.com)
